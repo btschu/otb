@@ -507,27 +507,27 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Services
+# rules
 --------------------------------------------------------------*/
-.services .icon-box h4 {
+.rules .icon-box h4 {
   font-size: 20px;
   font-weight: 700;
   margin: 5px 0 10px 60px;
 }
 
-.services .icon-box i {
+.rules .icon-box i {
   font-size: 48px;
   float: left;
   color: #fd5701;
 }
 
-.services .icon-box p {
+.rules .icon-box p {
   font-size: 15px;
   color: #959595;
   margin-left: 60px;
 }
 
-.services .image {
+.rules .image {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
